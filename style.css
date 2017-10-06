@@ -1,0 +1,28 @@
+body {
+  font-family: Helvetica;
+  background-color: #B25C3C;
+}
+
+table {
+  padding-left:500px;
+
+}
+p {
+color: #00497F;
+}
+
+h1, h3 {
+  color: #002540;
+}
+
+#iskanje {
+    border-radius: 5px;
+}
+
+.modrihover:hover {
+  background-color: #002540;
+}
+
+img {
+    border: 5px black solid;
+}
